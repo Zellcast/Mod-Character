@@ -1,2 +1,2 @@
-# Modular-character
+# Character-Mod
 Modular style character sheet for TTRPGs
